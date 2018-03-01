@@ -1,0 +1,13 @@
+{
+"companyName": "JonitCorp",
+"productName": "PrisonEscape",
+"dataUrl": "PrisonBreak.data.unityweb",
+"asmCodeUrl": "PrisonBreak.asm.code.unityweb",
+"asmMemoryUrl": "PrisonBreak.asm.memory.unityweb",
+"asmFrameworkUrl": "PrisonBreak.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
